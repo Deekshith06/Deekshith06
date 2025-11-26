@@ -80,13 +80,15 @@ class Deekshith:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshith06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith06&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=deekshith06&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deekshith06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=deekshith06&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=1800" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=deekshith06&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -94,7 +96,9 @@ class Deekshith:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith06&custom_title=Deekshith's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" width="95%"/>
+
 </div>
 
 ---
@@ -116,15 +120,17 @@ class Deekshith:
 <div align="center">
 
 ### 💭 Quote of the Day
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎵 Spotify Playing
-[![Spotify](https://novatorem-deekshith06.vercel.app/api/spotify)](https://open.spotify.com/user/31lfyx3et4c4c3lw7d6ttj7nqs4q)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31lfyx3et4c4c3lw7d6ttj7nqs4q&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://open.spotify.com/user/31lfyx3et4c4c3lw7d6ttj7nqs4q)
 
 ---
 
 **⭐ From [Deekshith06](https://github.com/Deekshith06) | Building the future with AI 🚀**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
