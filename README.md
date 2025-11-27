@@ -81,11 +81,11 @@ class Deekshith:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deekshith06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=deekshith06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=deekshith06&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=1800" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=deekshith06&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=deekshith06&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
@@ -97,7 +97,7 @@ class Deekshith:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith06&custom_title=Deekshith's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" width="95%"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshith06&custom_title=Deekshith's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/deekshith06)
 
 </div>
 
