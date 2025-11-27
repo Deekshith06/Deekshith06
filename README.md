@@ -85,7 +85,7 @@ class Deekshith:
 
 <img src="https://streak-stats.demolab.com?user=deekshith06&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook,scss&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&exclude_repo=forked-repos&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=deekshith06&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
