@@ -2,11 +2,16 @@
 
 # 👨‍💻 Seelaboyina Deekshith
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20🤖&descAlignY=55&descSize=20" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20🤖&descAlignY=55&descSize=20">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20🤖&descAlignY=55&descSize=20">
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Expert+%F0%9F%91%81;Deep+Learning+Researcher+%F0%9F%94%AC;Open+Source+Contributor+%E2%9C%A8;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+<picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Expert+%F0%9F%91%81;Deep+Learning+Researcher+%F0%9F%94%AC;Open+Source+Contributor+%E2%9C%A8;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing Animation" onerror="this.style.display='none'">
+</picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" onerror="this.style.display='none'">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deekshith06&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/deekshith06)
 [![GitHub followers](https://img.shields.io/github/followers/deekshith06?logo=github&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/deekshith06)
