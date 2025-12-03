@@ -8,14 +8,17 @@
 </picture>
 
 <picture>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Expert+%F0%9F%91%81;Deep+Learning+Researcher+%F0%9F%94%AC;Open+Source+Contributor+%E2%9C%A8;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing Animation" onerror="this.style.display='none'">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Expert+%F0%9F%91%81;Deep+Learning+Researcher+%F0%9F%94%AC;Open+Source+Contributor+%E2%9C%A8;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing Animation">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" onerror="this.style.display='none'">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deekshith06&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/deekshith06)
 [![GitHub followers](https://img.shields.io/github/followers/deekshith06?logo=github&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/deekshith06)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deekshith45823?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://twitter.com/deekshith45823)
+[![Repos Badge](https://badges.pufler.dev/repos/deekshith06?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/deekshith06?tab=repositories)
+[![Years Badge](https://badges.pufler.dev/years/deekshith06?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/deekshith06)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/deekshith06?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/deekshith06)
 
 </div>
 
