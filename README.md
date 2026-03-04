@@ -151,7 +151,7 @@ class Deekshith:
 
 <div align="center">
 
-<a href="https://deekshith06.github.io/Monochrome-Portfolio/">
+<a href="https://deekshith06.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/deekshith03020">
