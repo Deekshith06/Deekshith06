@@ -21,7 +21,6 @@
 
 <p><b>AI/ML Engineer · Full-Stack Developer · B.Tech CSE Student</b></p>
 <p>I use AI to build fully working, production-focused websites and intelligent applications.</p>
-<p>B.Tech in Computer Science and Engineering at Lovely Professional University · Expected graduation: 2027</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deekshith06-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshith06)
 [![Repositories](https://img.shields.io/badge/Explore-Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshith06?tab=repositories)
