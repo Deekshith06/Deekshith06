@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./deekshith-ascii-animated.gif" width="400" alt="Animated ASCII portrait of Deekshith rendering line by line" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Deekshith profile: B.Tech Computer Science and Engineering student at Lovely Professional University, graduating in 2027" /></td>
+<td width="50%" valign="top"><img src="./deekshith-ascii-once.svg" width="470" alt="Clear ASCII portrait of Deekshith rendering line by line once" /></td>
+<td width="50%" valign="top"><img src="./info-card.svg" width="470" alt="Deekshith profile: AI/ML engineer and full-stack developer, B.Tech Computer Science and Engineering student at Lovely Professional University, graduating in 2027" /></td>
 </tr>
 </table>
 
@@ -19,7 +19,8 @@
 
 <h3><code>deekshith06@github ~ $ ./about.sh</code></h3>
 
-<p><b>Full-Stack Developer · AI/ML Builder · B.Tech CSE Student</b></p>
+<p><b>AI/ML Engineer · Full-Stack Developer · B.Tech CSE Student</b></p>
+<p>I use AI to build fully working, production-focused websites and intelligent applications.</p>
 <p>B.Tech in Computer Science and Engineering at Lovely Professional University · Expected graduation: 2027</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deekshith06-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshith06)

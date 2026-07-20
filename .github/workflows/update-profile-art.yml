@@ -47,8 +47,11 @@ jobs:
       - name: Regenerate profile information card
         run: python scripts/make_info_card.py
 
+      - name: Regenerate one-time portrait reveal
+        run: python scripts/make_portrait_svg.py
+
       - name: Commit refreshed assets
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: refresh verified profile assets [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg deekshith-ascii-once.svg"

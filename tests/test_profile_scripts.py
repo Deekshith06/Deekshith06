@@ -72,6 +72,10 @@ class ProfileCardTests(unittest.TestCase):
         svg = info.build_svg()
         self.assertIn("Lovely Professional University", svg)
         self.assertIn("Expected 2027", svg)
+        self.assertIn("AI/ML Engineer · Full-Stack Developer", svg)
+        self.assertIn("AI/ML Engineer and Full-Stack Developer", svg)
+        self.assertIn("fully working websites", svg)
+        self.assertIn('width="760" height="720"', svg)
         self.assertNotIn("IIIT Delhi", svg)
         self.assertNotIn("Dock.us", svg)
         self.assertNotIn("Turgon AI", svg)
@@ -79,16 +83,20 @@ class ProfileCardTests(unittest.TestCase):
 
 
 class PortraitAssetTests(unittest.TestCase):
-    def test_readme_uses_clear_animated_portrait(self):
+    def test_readme_uses_equal_non_gif_one_time_portrait(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
-        static_portrait = ROOT / "deekshith-ascii.png"
-        animated_portrait = ROOT / "deekshith-ascii-animated.gif"
+        static_portrait = ROOT / "deekshith-ascii-clear.png"
+        animated_portrait = ROOT / "deekshith-ascii-once.svg"
         self.assertTrue(static_portrait.exists())
         self.assertTrue(animated_portrait.exists())
         self.assertGreater(static_portrait.stat().st_size, 100_000)
-        self.assertGreater(animated_portrait.stat().st_size, 1_000_000)
-        self.assertIn("./deekshith-ascii-animated.gif", readme)
-        self.assertNotIn("./deekshith-ascii.svg", readme)
+        self.assertGreater(animated_portrait.stat().st_size, 500_000)
+        self.assertIn("./deekshith-ascii-once.svg", readme)
+        self.assertIn('width="470"', readme)
+        self.assertNotIn(".gif", readme)
+        svg = animated_portrait.read_text(encoding="utf-8")
+        self.assertIn('repeatCount="1"', svg)
+        self.assertNotIn('repeatCount="indefinite"', svg.split('portrait loaded successfully')[0])
 
 
 if __name__ == "__main__":

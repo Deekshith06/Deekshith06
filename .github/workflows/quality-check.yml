@@ -6,7 +6,8 @@ on:
     branches: [main]
     paths:
       - "README.md"
-      - "deekshith-ascii.png"
+      - "deekshith-ascii-clear.png"
+      - "deekshith-ascii-once.svg"
       - "scripts/**"
       - "tests/**"
       - ".github/workflows/quality-check.yml"

@@ -1,12 +1,27 @@
 # Deployment notes
 
-This repository is the special GitHub profile repository because its name matches the account name: `Deekshith06`.
-Keep it under that name so the profile README continues to appear on the GitHub account page.
+## GitHub profile
 
-The root website `https://deekshith06.github.io/` requires a **different public repository** named exactly:
+Upload this repository to the existing public repository named exactly:
+
+```text
+Deekshith06
+```
+
+Because the repository name matches the GitHub username, its root `README.md` appears on the account profile.
+
+## Root GitHub Pages website
+
+The URL below requires a different public repository:
+
+```text
+https://deekshith06.github.io/
+```
+
+The repository must be named exactly:
 
 ```text
 Deekshith06.github.io
 ```
 
-Use the separate `Deekshith06.github.io-fixed.zip` package for that repository. Do not rename this profile repository, because doing so would remove the profile README from the account overview.
+Upload the separate `Deekshith06.github.io` folder to that repository. In **Settings → Pages**, choose **GitHub Actions**. Do not rename the `Deekshith06` profile repository.
